@@ -1,0 +1,2 @@
+# COVID-CLASSIFICATION
+A COVID 19 predictor
